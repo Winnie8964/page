@@ -1,0 +1,58 @@
+@charset "utf-8";
+#global {
+	height: 880px;
+	width: 1600px;
+	margin: auto;
+	
+}
+
+#top {
+	background-color: #FFFFFF;
+	height: 200px;
+	width: 100%;
+	background-image: url(top.png);
+}
+#top:hover  {
+	background-color: #FFFFFF;
+	height: 200px;
+	width: 100%;
+	background-image: url(top2.png);
+}
+#main {
+	margin: auto;
+	height: 800px;
+	width: 1600px;
+}
+
+#buttom {
+	height: 200px;
+	width: 100%;
+	background-image: url(buttom.png);
+}
+.Arimg {
+	float: left;
+}
+
+.text {
+	font-family: "微軟正黑體", "標楷體", "新細明體";
+	font-size: 18px;
+}
+.rliatitem {
+	font-family: "王漢宗粗鋼體一標準", "王漢宗細明體繁", "王漢宗細黑體繁";
+	font-size: 38px;
+	height: 50px;
+	width: 20%;
+	text-align: center;
+	float: right;
+	background-color: #CFF;
+}
+.rliatitem:hover {
+	background-color: #A3CAEB;
+}
+#fdsda {
+	background-color: #0FF;
+	width: 100%;
+	height: 50px;
+}
+/* CSS Document */
+
